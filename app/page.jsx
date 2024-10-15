@@ -27,7 +27,7 @@ export default function Home() {
           <h3 className="text-white md:text-[2rem] text-2xl font-bold">
             Great
           </h3>
-          <p className="md:text-lg font-medium text-[#CAC9FF]">
+          <p className="font-medium text-[#CAC9FF] md:leading-6 md:text-lg md:pt-4">
             Your performance exceed 65% of the people conducting the test here!
           </p>
         </div>

@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`antialiased ${hanken.className} bg-[#ECF2FF] flex justify-center md:items-center min-h-screen`}
+        className={`antialiased ${hanken.className} bg-white/90 flex justify-center md:items-center min-h-screen`}
       >
         {children}
       </body>
